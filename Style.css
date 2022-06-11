@@ -1,0 +1,43 @@
+html, body{
+    margin: 50px auto;
+    width: 50%;
+    background-color :#3f0d12;
+    background-image: linear-gradient(315deg, #3f0d12 0%, #a71d31 74%);
+
+}
+div{
+    background-image:linear-gradient(to right,purple, blue) ;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+.container{
+    width: 360px;
+
+}
+#inputField {
+    width: 300px;
+    height: 46px;
+    border-width: 0;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
+#addToDo{
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 30px;
+
+}
+.paragraph-styling{
+    margin: 0;
+    cursor: pointer;
+    font-size: 20px;
+}
+.to-dos{
+    margin-top: 25px;
+}
